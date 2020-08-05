@@ -21,4 +21,4 @@ npm run dev  # launch the express server
 
 after that, type `localhost:4000` into your browser and u will see the chatroom page.
 
-open two or more pages if you like, and see what can it do~
+open two or more pages if you like, and see what it can do~
